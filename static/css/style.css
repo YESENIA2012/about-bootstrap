@@ -1,0 +1,23 @@
+body{
+  margin: 0;
+}
+
+header{
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+header .logo{
+  width: 100px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+#highlights, footer {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+#faq ul li:hover{
+  background-color: #000000;
+  color: white;
+}
